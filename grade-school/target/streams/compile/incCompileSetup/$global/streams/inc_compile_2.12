@@ -1,0 +1,140 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/zyan/exercism/scala/grade-school/target/scala-2.12/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.1
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+1 items
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> /Users/zyan/exercism/scala/grade-school/target/scala-2.12/classes/School.class
+binary dependencies:
+2 items
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> /Users/zyan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+1 items
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> School
+used names:
+59 items
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> $conforms
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> +=
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> ->
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> :+
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> <
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> <:<
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> <init>
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> <repeated>
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> A
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> Any
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> AnyRef
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> ArrowAssoc
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> B
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> Boolean
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> CanBuildFrom
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> Coll
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> Function1
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> Function2
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> Int
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> List
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> Map
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> MatchError
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> Nothing
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> Object
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> Predef
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> School
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> Seq
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> String
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> StringOps
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> T
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> T1
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> T2
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> That
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> Tuple2
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> U
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> _1
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> _2
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> apply
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> augmentString
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> canBuildFrom
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> collection
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> contains
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> database
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> db
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> grade
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> immutable
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> k
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> map
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> mapList
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> mutable
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> name
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> ne
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> package
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> resultList
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> scala
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> sortWith
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> toList
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> toMap
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> v
+product stamps:
+1 items
+/Users/zyan/exercism/scala/grade-school/target/scala-2.12/classes/School.class -> lastModified(1491947256000)
+source stamps:
+1 items
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> hash(b023deb8704a911526bc9792547f6e13bdefc28e)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1481605174000)
+/Users/zyan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar -> lastModified(1480936165000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/zyan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar -> scala.collection.generic.CanBuildFrom
+internal apis:
+1 items
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwddoPkwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwGU3LCHQABm5vdGlmeXNxAH4ADPQ8Jc10AAR3YWl0c3EAfgAMBM++13QADSRhc0luc3RhbmNlT2ZzcQB+AAxvYjEUdAAGZXF1YWxzc3EAfgAMDlG+jXQADGFzSW5zdGFuY2VPZnNxAH4ADKNjor10AAxzeW5jaHJvbml6ZWRzcQB+AAz7l6jKdAAGU2Nob29sc3EAfgAM5SZ7TXQAAmRic3EAfgAMnPb9oHQADSRpc0luc3RhbmNlT2ZzcQB+AAyKGA+6dAAJbm90aWZ5QWxsc3EAfgAMwkmFwHQADGlzSW5zdGFuY2VPZnNxAH4ADAn5LSp0AAY8aW5pdD5zcQB+AAx+wM3bdAAFZ3JhZGVzcQB+AAxha/3QdAACPT1zcQB+AAxIz1RzdAAGc29ydGVkc3EAfgAMt7pawHQABWNsb25lc3EAfgAMvGCSYHQACHRvU3RyaW5nc3EAfgAM6ldlw3QAAiE9c3EAfgAMPMQJw3QACGdldENsYXNzc3EAfgAM0NmrXHQAAm5lc3EAfgAMaBz6k3QAA2FkZHNxAH4ADHJVv1l0AAJlcXNxAH4ADJimFex0AAIjI3NxAH4ADKaHEyd0AAhmaW5hbGl6ZXNxAH4ADFJ/Uih0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AG3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBgc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AElMAAlpbmhlcml0ZWRxAH4ASUwAB3BhcmVudHNxAH4ASXhxAH4AZXNxAH4AYHVxAH4ARAAAAABzcQB+AGB1cQB+AEQAAAAAc3EAfgBgdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBkdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBkc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB9dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB+c3EAfgBxdAADQW55c3EAfgB1c3EAfgB4dXEAfgB7AAAAAnNxAH4AfXQABXNjYWxhcQB+AIR1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW178bYh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABBL1VzZXJzL3p5YW4vZXhlcmNpc20vc2NhbGEvZ3JhZGUtc2Nob29sL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSwI964cEqRFSa8l5JUf24Tve/Cjg==
+external apis:
+0 items
+source infos:
+1 items
+/Users/zyan/exercism/scala/grade-school/src/main/scala/School.scala -> 
+AAAAAAAAAAA=
+compilations:
+7 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW17iDwl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9Vc2Vycy96eWFuL2V4ZXJjaXNtL3NjYWxhL2dyYWRlLXNjaG9vbC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW17vWVV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9Vc2Vycy96eWFuL2V4ZXJjaXNtL3NjYWxhL2dyYWRlLXNjaG9vbC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW17w7Uh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9Vc2Vycy96eWFuL2V4ZXJjaXNtL3NjYWxhL2dyYWRlLXNjaG9vbC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW172NUx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9Vc2Vycy96eWFuL2V4ZXJjaXNtL3NjYWxhL2dyYWRlLXNjaG9vbC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW174JUB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9Vc2Vycy96eWFuL2V4ZXJjaXNtL3NjYWxhL2dyYWRlLXNjaG9vbC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW1745cV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9Vc2Vycy96eWFuL2V4ZXJjaXNtL3NjYWxhL2dyYWRlLXNjaG9vbC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW178bYh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9Vc2Vycy96eWFuL2V4ZXJjaXNtL3NjYWxhL2dyYWRlLXNjaG9vbC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
